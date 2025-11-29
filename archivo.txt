@@ -2,3 +2,4 @@ Creando un nuevo archivo
 Modificando el archivo
 Segundo cambio
 Tercera actualización
+Nueva actualización para probar .gitignore
